@@ -4,4 +4,5 @@ Local
 
 Bonjour,
 
+git status
 ceci est "quelques lignes"
